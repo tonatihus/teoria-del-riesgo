@@ -6,6 +6,7 @@ a=rnorm(10,0,1) #ctrl+intro = ejecutar la linea
                 #lo sombreado
 a=rnorm(100,20,32)
 plot(rnorm(100,20,30))
+plot(rnorm(100,20,30),col='pink',pch=16,cex=3)
 mean(a)
 sd(a)
 a1=rnorm(1000,20,32)
