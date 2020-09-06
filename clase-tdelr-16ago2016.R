@@ -5,6 +5,7 @@ a=rnorm(10,0,1) #ctrl+intro = ejecutar la linea
                 #donde este el promt o bien ejecuta
                 #lo sombreado
 a=rnorm(100,20,32)
+plot(rnorm(100,20,30))
 mean(a)
 sd(a)
 a1=rnorm(1000,20,32)
